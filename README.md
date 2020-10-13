@@ -4,8 +4,6 @@ this is sample file for spring mvc for helping freshers.
 
 <h1>
 
-Name : Ajay Rathod 
-
 LinkedIn : <a href="www.linkedin.com/in/rathod-ajay"> Ajay Rathod </a>
 
 </h1>
