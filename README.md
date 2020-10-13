@@ -1,4 +1,4 @@
-# Spring-MVC-Sample
+# spring-mvc-sample
 this is sample file for spring mvc for helping freshers.
 
 
