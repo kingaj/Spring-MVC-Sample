@@ -13,4 +13,4 @@ this is simple example for spring mvc with tomcate
 requirement
 ------------
 
-setup tomecat 
+setup tomcat 
