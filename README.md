@@ -4,7 +4,7 @@ this is sample file for spring mvc for helping freshers.
 
 <h1>
 
-LinkedIn : <a href="www.linkedin.com/in/rathod-ajay" target="_blank"> Ajay Rathod </a>
+LinkedIn : <a href="www.linkedin.com/in/rathod-ajay" target="_blank" rel="noopener noreferrer"> Ajay Rathod </a>
 
 </h1>
 
